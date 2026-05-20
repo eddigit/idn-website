@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 88" fill="none">
+  <!-- Monogramme géométrique : carré avec "IDN" -->
+  <!-- Carré extérieur fin -->
+  <rect x="0" y="4" width="72" height="72" stroke="#12201b" stroke-width="1.2" fill="none"/>
+  <!-- Ligne or intérieure décorative -->
+  <rect x="5" y="9" width="62" height="62" stroke="#a07842" stroke-width="0.5" fill="none" opacity="0.6"/>
+  <!-- "IDN" centré dans le carré -->
+  <text x="36" y="52"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="22"
+    font-weight="400"
+    letter-spacing="3"
+    fill="#12201b"
+    text-anchor="middle">IDN</text>
+
+  <!-- Séparateur vertical -->
+  <rect x="90" y="14" width="0.75" height="52" fill="#a07842" opacity="0.5"/>
+
+  <!-- Nom complet à droite -->
+  <text x="106" y="43"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="26"
+    font-weight="400"
+    letter-spacing="2.5"
+    fill="#12201b">IDN</text>
+
+  <text x="106" y="62"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="10.5"
+    font-weight="400"
+    letter-spacing="5.5"
+    fill="#a07842">GLOBAL ADVISORY</text>
+</svg>

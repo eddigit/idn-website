@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 88" fill="none">
+  <!-- IDN — serif large, espacé -->
+  <text x="0" y="56"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="58"
+    font-weight="400"
+    letter-spacing="10"
+    fill="#12201b">IDN</text>
+
+  <!-- Ligne or champagne -->
+  <rect x="0" y="63" width="310" height="0.75" fill="#a07842" opacity="0.85"/>
+
+  <!-- GLOBAL ADVISORY — sans-serif tracké -->
+  <text x="1" y="80"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="11"
+    font-weight="400"
+    letter-spacing="6.5"
+    fill="#a07842">GLOBAL ADVISORY</text>
+</svg>
