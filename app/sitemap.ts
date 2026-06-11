@@ -7,7 +7,7 @@ const jurisdictions = [
 ];
 
 const mainRoutes = [
-  '','/international','/immobilier','/entreprises',
+  '','/international','/immobilier','/entreprises','/coaching-ia',
   '/juridictions','/a-propos','/contact','/publications',
   '/mentions-legales','/politique-de-confidentialite','/conditions-utilisation',
 ];
