@@ -2,6 +2,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import RaphaelWebChat from '@/components/RaphaelWebChat';
 import { LangProvider } from '@/contexts/LanguageContext';
 
 export const metadata: Metadata = {
@@ -29,6 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <Header />
           {children}
           <Footer />
+          <RaphaelWebChat />
         </LangProvider>
       </body>
     </html>
