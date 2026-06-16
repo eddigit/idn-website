@@ -11,7 +11,7 @@ const c = {
     sections: [
       {
         title: "1. Responsable du traitement",
-        content: "CMB CONSEIL SA — 4 Rue d'Arlon, L-8399 Windhof, Luxembourg. RCS Luxembourg : B261378. TVA intracommunautaire : LU34010738. Activité : Conseil pour les affaires et autres conseils de gestion (NACE 70.22). Contact : idngbadvisory@gmail.com — +352 621 761 838.",
+        content: "CMB CONSEIL SA — 4 Rue d'Arlon, L-8399 Windhof, Luxembourg. RCS Luxembourg : B261378. TVA intracommunautaire : LU34010738. Activité : Conseil pour les affaires et autres conseils de gestion (NACE 70.22). Contact : strategy@idnadvisory.com — +352 621 761 838.",
       },
       {
         title: "2. Nature des données collectées",
@@ -47,7 +47,7 @@ const c = {
       },
       {
         title: "10. Droits des personnes concernées",
-        content: "Conformément au Règlement Général sur la Protection des Données (RGPD), toute personne concernée dispose notamment des droits d'accès, de rectification, d'effacement, de limitation, d'opposition et à la portabilité lorsque applicable. Les demandes relatives au traitement des données peuvent être adressées à : idngbadvisory@gmail.com.",
+        content: "Conformément au Règlement Général sur la Protection des Données (RGPD), toute personne concernée dispose notamment des droits d'accès, de rectification, d'effacement, de limitation, d'opposition et à la portabilité lorsque applicable. Les demandes relatives au traitement des données peuvent être adressées à : strategy@idnadvisory.com.",
       },
       {
         title: "11. Droit applicable et juridiction compétente",
@@ -63,7 +63,7 @@ const c = {
     sections: [
       {
         title: "1. Data Controller",
-        content: "CMB CONSEIL SA — 4 Rue d'Arlon, L-8399 Windhof, Luxembourg. Luxembourg Trade Register: B261378. VAT number: LU34010738. Business activity: Business and management consultancy activities (NACE 70.22). Contact: idngbadvisory@gmail.com — +352 621 761 838.",
+        content: "CMB CONSEIL SA — 4 Rue d'Arlon, L-8399 Windhof, Luxembourg. Luxembourg Trade Register: B261378. VAT number: LU34010738. Business activity: Business and management consultancy activities (NACE 70.22). Contact: strategy@idnadvisory.com — +352 621 761 838.",
       },
       {
         title: "2. Categories of Data Collected",
@@ -99,7 +99,7 @@ const c = {
       },
       {
         title: "10. Rights of Data Subjects",
-        content: "In accordance with the General Data Protection Regulation (GDPR), data subjects notably benefit from the rights of access, rectification, erasure, restriction of processing, objection and data portability where applicable. Requests relating to personal data processing may be addressed to: idngbadvisory@gmail.com.",
+        content: "In accordance with the General Data Protection Regulation (GDPR), data subjects notably benefit from the rights of access, rectification, erasure, restriction of processing, objection and data portability where applicable. Requests relating to personal data processing may be addressed to: strategy@idnadvisory.com.",
       },
       {
         title: "11. Applicable Law and Jurisdiction",

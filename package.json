@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "smoke:raphael": "node scripts/smoke/raphael-public-brain.test.mjs"
+    "smoke:raphael": "node scripts/smoke/raphael-public-brain.test.mjs && node scripts/smoke/idn-contact-email.test.mjs"
   },
   "dependencies": {
     "next": "16.2.6",
